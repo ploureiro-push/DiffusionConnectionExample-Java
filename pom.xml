@@ -97,7 +97,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.pushtechnology.diffusion.gettingstarted.SubscribingClient</mainClass>
+                    <mainClass>com.pushtechnology.diffusion.examples.SubscribingClient</mainClass>
                 </configuration>
             </plugin>
         </plugins>
